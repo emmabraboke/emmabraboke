@@ -15,7 +15,7 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmabraboke&layout=compact&hide=html">
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmabraboke&layout=compact&hide=html">
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
