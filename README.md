@@ -18,7 +18,7 @@
   <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmabraboke&layout=compact&hide=html">
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuelbraboke/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:emmabraboke@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hello-red?style=flat-square&logo=gmail&logoColor=white"></a>
