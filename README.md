@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Backend Developer from Lagos, Nigeria</h3>
 
 
-- 🔭 I’m currently working in <a href="https://www.pario.solutions/" target="blank">Pario Solutions</a>
-
 - 🌱 I’m currently Working on web applications and APIs.
 
 - 🤝 I’m available for freelancing.
